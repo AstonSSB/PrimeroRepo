@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea.U1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_cliente">ClienteActivity</string>
+    <string name="title_activity_relacion">RelacionActivity</string>
+    <string name="title_activity_vista">VistaActivity</string>
+    <string name="title_activity_listar">ListarActivity</string>
+    <string name="title_activity_resumen">ResumenActivity</string>
+    <string name="title_activity_seleccion_resumen">SeleccionResumenActivity</string>
+    <string name="title_activity_contenedor">ContenedorActivity</string>
+
+</resources>
